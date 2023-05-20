@@ -54,7 +54,7 @@ spyX , powerfull android administration tool full of feature
 
 ## Preview
 
-[Imgur](https://imgur.com/YpJpy1m)
+![alt text](https://github.com/EzioTN/spyX/blob/main/1.PNG?raw=true)
 
 
 <p align="center">
