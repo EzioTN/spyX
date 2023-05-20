@@ -55,12 +55,12 @@ spyX , powerfull android administration tool full of feature
 ## Preview
 
 <p align="center">
-  <img src="[1.png](https://imgur.com/undefined)" width="600"/>
+  <img src="https://imgur.com/ezxkPGw" width="600"/>
 </p>
 
 
 <p align="center">
-  <img src="2.png" width="600"/>
+  <img src="https://imgur.com/YpJpy1m" width="600"/>
 </p>
 
 
