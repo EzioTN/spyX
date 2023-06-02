@@ -49,8 +49,8 @@ spyX , powerfull android administration tool full of feature
 ## Installation
 
 
-[DOWNLOAD](https://mega.nz/file/pWcBgSRD#sYOTn58Nr5D2bBe1W7p4fobrUo9-4mx_KxfnBSDPoX8)
 
+## Free Trial ended XD !!!!
 
 ## Preview
 
